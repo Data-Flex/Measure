@@ -1,0 +1,8 @@
+f = open('data.txt', 'w')
+f.write('1')
+f.write(' ')
+f.write('2')
+f.write('\n')
+f.write('1')
+f.write(' ')
+f.write('2')

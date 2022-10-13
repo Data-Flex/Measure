@@ -1,0 +1,2 @@
+Sampling frequency is 94.6 Hz
+Quantization step is 0.0129 Hz
